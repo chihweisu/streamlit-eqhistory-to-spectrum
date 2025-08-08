@@ -1,9 +1,18 @@
 # Streamlit Response Spectrum Generator (streamlit-eqhistory-to-spectrum)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-eqhistory-to-spectrum-upgfbumd4xcjrrtbc9jeja.streamlit.app/)
+[![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+**🚀 [Try the Live Demo](https://app-eqhistory-to-spectrum-upgfbumd4xcjrrtbc9jeja.streamlit.app/)**
+
 This is an interactive web app built with Streamlit, designed for structural engineers and researchers to quickly convert earthquake time-history data into structural response spectra, with advanced scaling and comparison features.
 
-![App Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(Hint: You can upload a screenshot of the app to a service like [imgur.com](https://imgur.com/) and replace the image link above.)*
+## 📚 Learn More
+
+For a detailed walkthrough, technical insights, and the story behind this tool, check out my comprehensive article:
+
+**📝 ["From Raw Seismic Data to Insightful Spectra in Seconds"](https://medium.com/@jj19960130/from-raw-seismic-data-to-insightful-spectra-in-seconds-54a44f57f762)**
 
 ---
 
