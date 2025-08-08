@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 **🚀 [Try the Live Demo](https://app-eqhistory-to-spectrum-upgfbumd4xcjrrtbc9jeja.streamlit.app/)**
+> **Quick Access:** Default password is `chihwei` — no registration required!
 
 This is an interactive web app built with Streamlit, designed for structural engineers and researchers to quickly convert earthquake time-history data into structural response spectra, with advanced scaling and comparison features.
 
